@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="media/scr1.jpg" alt="scr1" width="250"/>
-  <img src="media/scr2.jpg" alt="scr2" width="250"/>
+  <img src="media/scr2.png" alt="scr2" width="250"/>
   <img src="media/scr3.jpg" alt="scr3" width="250"/>
 </p>
 
