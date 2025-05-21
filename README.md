@@ -2,12 +2,15 @@
   <img src="media/appicon.png" alt="FluxRate Logo" width="120"/>
 </p>
 
-<h1 align="center">FluxRate</h1>
-
 <p align="center">
-  <strong>Your personal currency exchange.</strong><br/>
-  Fast. Clean. No BS.
+  <img src="media/appicon.png" width="80"/>
 </p>
+
+<h2 align="center">💱 FluxRate</h2>
+
+<p align="center"><i>Your personal currency exchange</i></p>
+
+<p align="center"><b>⚡ Fast</b> ・ <b>🎯 Clean</b> ・ <b>🚫 No BS</b></p>
 
 ---
 
@@ -62,12 +65,12 @@ Open in Android Studio, build and run on emulator or device.
 
 ---
 
-##🙌 Contribute
+## 🙌 Contribute
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-##📃 License
+## 📃 License
 This project is open-source and available under the MIT License.
 
 <p align="center"> Built with ❤️ by <a href="https://github.com/cobralicious">yourusername</a> </p> 
