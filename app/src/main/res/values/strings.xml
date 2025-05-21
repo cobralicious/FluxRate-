@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="amount_in_currency">Amount in %1$s</string>
+    <string name="result">Result: %1$.2f %2$s</string>
+    <string name="retry">Retry</string>
+    <string name="failed_to_load_rates">Failed to load rates</string>
+    <!-- и так далее -->
+</resources>
