@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/appicon.png" alt="FluxRate Logo" width="120"/>
+  <img src="media/appicon.png" alt="FluxRate Logo" width="120" style="border-radius: 24px;"/>
 </p>
 
 <h2 align="center">💱 FluxRate</h2>
@@ -14,13 +14,28 @@
 
 **FluxRate** is a sleek and intuitive Android app built with Jetpack Compose that allows you to convert between currencies in real time using live exchange rates. Perfect for travelers, traders, and the curious.
 
+### 🌐 Languages Supported
+
+- 🇬🇧 English  
+- 🇷🇺 Russian  
+- 🇺🇦 Ukrainian  
+- 🇪🇸 Spanish  
+- 🇵🇱 Polish  
+
+> 🔜 More languages, features, and cool surprises coming soon!
+
+---
+
 ## 🚀 Features
 
 - 🌍 Real-time currency rates (via API)
 - 💱 Exchange calculator between 20+ world currencies
 - 🇺🇸 Flags for visual clarity
+- 🧭 Multilingual UI
 - 🔥 Built with Jetpack Compose
 - 📦 Lightweight and fast
+
+---
 
 ## 🖼️ Screenshots
 
