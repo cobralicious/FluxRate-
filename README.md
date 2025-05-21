@@ -2,10 +2,6 @@
   <img src="media/appicon.png" alt="FluxRate Logo" width="120"/>
 </p>
 
-<p align="center">
-  <img src="media/appicon.png" width="80"/>
-</p>
-
 <h2 align="center">💱 FluxRate</h2>
 
 <p align="center"><i>Your personal currency exchange</i></p>
@@ -51,7 +47,7 @@ Just install it on your Android device and you're good to go.
 
 ## 📡 API
 
-Live exchange rates provided via [API Layer](https://apilayer.com/marketplace/currext-api).
+Live exchange rates provided via [API Layer](https://app.currencyapi.com).
 
 ## 📍 Installation (Development)
 
